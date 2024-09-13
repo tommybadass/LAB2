@@ -7,9 +7,9 @@ h1, h2, h3, h4, h5, h6 {
 /** Step three **/
 h1 {
     font-size: 46px;
-    letter-spacing: 1px; /* Adjust letter spacing as needed */
+    letter-spacing: 1px; 
     text-align: center;
-    color: #3498db; /* Choose a color of your choice */
+    color: #3498db; 
 }
 
 /** Step four **/
@@ -19,11 +19,11 @@ body {
 
 /** Step five **/
 .highlight {
-    color: #e74c3c; /* Choose a color of your choice for the span text */
+    color: #e74c3c; 
 }
 
 /** Step six **/
 h3 {
-    font-size: 36px; /* Increase the size as needed */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Adjust the shadow properties as needed */
+    font-size: 36px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
 }
