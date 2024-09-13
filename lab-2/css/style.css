@@ -1,0 +1,29 @@
+/** Step one **/
+/** Step two **/
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/** Step three **/
+h1 {
+    font-size: 46px;
+    letter-spacing: 1px; /* Adjust letter spacing as needed */
+    text-align: center;
+    color: #3498db; /* Choose a color of your choice */
+}
+
+/** Step four **/
+body {
+    font-family: 'Merriweather', serif;
+}
+
+/** Step five **/
+.highlight {
+    color: #e74c3c; /* Choose a color of your choice for the span text */
+}
+
+/** Step six **/
+h3 {
+    font-size: 36px; /* Increase the size as needed */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Adjust the shadow properties as needed */
+}
